@@ -16,6 +16,11 @@ Once the application is running, you can navigate to the chat screen to view and
 - Message expansion for multi-line texts
 - Dynamic message highlighting
 
+## Demo
+
+![Jetpack Compose Chat Demo Light](https://github.com/fahaddhabib/Jetpack-Compose-ChatApp-UI/blob/master/assets/demoday.gif)
+![Jetpack Compose Chat Demo Dark](https://github.com/fahaddhabib/Jetpack-Compose-ChatApp-UI/blob/master/assets/demonight.gif)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or create a pull request.
