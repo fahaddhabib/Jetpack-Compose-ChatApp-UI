@@ -18,8 +18,10 @@ Once the application is running, you can navigate to the chat screen to view and
 
 ## Demo
 
-![Jetpack Compose Chat Demo Light](https://github.com/fahaddhabib/Jetpack-Compose-ChatApp-UI/blob/master/assets/demoday.gif)
-![Jetpack Compose Chat Demo Dark](https://github.com/fahaddhabib/Jetpack-Compose-ChatApp-UI/blob/master/assets/demonight.gif)
+## Demo
+
+<img src="https://github.com/fahaddhabib/Jetpack-Compose-ChatApp-UI/blob/master/assets/demoday.gif" alt="Jetpack Compose Chat Demo Light" width="400"/> <img src="https://github.com/fahaddhabib/Jetpack-Compose-ChatApp-UI/blob/master/assets/demonight.gif" alt="Jetpack Compose Chat Demo Dark" width="400"/>
+
 
 ## Contributing
 
